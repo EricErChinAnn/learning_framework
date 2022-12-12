@@ -14,3 +14,14 @@ GRANT ALL PRIVILEGES on sakila.* TO 'ahkow'@'localhost' WITH GRANT OPTION;
  ```
 FLUSH PRIVILEGES;
 ```
+
+# Dependencies
+express
+nodemon
+hbs
+wax-on
+dotenv
+db-migrate
+knex
+bookshelf
+forms
